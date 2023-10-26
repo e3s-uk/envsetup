@@ -1,2 +1,0 @@
-# envsetup
-envsetup.py
